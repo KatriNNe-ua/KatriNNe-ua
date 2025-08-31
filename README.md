@@ -13,13 +13,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
-  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" title="Notion" alt="notion" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" title="Vite" alt="vite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="Notion" alt="notion" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
 </p>
+
 
 
 
