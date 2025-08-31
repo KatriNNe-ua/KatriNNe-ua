@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I’m Katya
 
-<!--
-**KatriNNe-ua/KatriNNe-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Markup & Styling**: HTML, CSS, SCSS  
+- **Programming**: JavaScript  
+- **Frameworks**: React.js  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KatriNNe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatriNNe&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/екатерина-мазурик-698a7a28b/)  
+
