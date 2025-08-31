@@ -2,7 +2,8 @@
 
 🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header"/>
+
 
 ### 🛠 Skills  
 
@@ -24,7 +25,8 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header"/>
+
 
 
 
