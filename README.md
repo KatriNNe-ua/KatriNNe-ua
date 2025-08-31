@@ -2,7 +2,8 @@
 
 🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
 
----
+<img src="https://i.imgur.com/dZ3q3zT.gif" width="100%" />
+
 
 ### 🛠 Tech Stack
 - **Markup & Styling**: HTML, CSS, SCSS  
