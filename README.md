@@ -11,7 +11,8 @@
 - **Programming**: JavaScript  
 - **Frameworks**: React.js  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 
 ### 🔗 Connect with me
