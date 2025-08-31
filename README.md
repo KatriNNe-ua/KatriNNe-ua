@@ -2,6 +2,8 @@
 
 🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
 
+- 🌍 Living in **Ukraine** 🇺🇦 , **Chernihiv**
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
@@ -33,5 +35,5 @@
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/екатерина-мазурик-698a7a28b/)
-- [Telegram](https://t.me/+380664892728) 📱  
+- [Telegram](https://t.me/KatriNNe88) 📱  
 
