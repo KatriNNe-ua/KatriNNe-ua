@@ -35,6 +35,6 @@
 
 
 ### 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/екатерина-мазурик-698a7a28b/)
+- [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B0%D1%82%D1%8F-%D0%BC%D0%B0%D0%B7%D1%83%D1%80%D0%B8%D0%BA-698a7a28b/)
 - [Telegram](https://t.me/KatriNNe88)   
 
