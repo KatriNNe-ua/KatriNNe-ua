@@ -2,7 +2,8 @@
 
 🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
 
-<img src="https://i.imgur.com/dZ3q3zT.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 
 ### 🛠 Tech Stack
