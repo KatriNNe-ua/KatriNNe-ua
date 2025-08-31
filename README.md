@@ -1,8 +1,9 @@
 # 👋 Hi there, I’m Katya
 
 🎓 I’m currently learning to become a **Frontend Developer**, dedicated to crafting clean, efficient, and responsive web interfaces.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-- 🌍 Living in **Ukraine** 🇺🇦 , **Chernihiv**
+- 🌍 Living in **Ukraine**, Chernihiv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
