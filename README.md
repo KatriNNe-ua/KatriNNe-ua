@@ -31,7 +31,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
-### [✨ Portfolio](https://willowy-heliotrope-f9623a.netlify.app/)
+### [✨ My Portfolio](https://willowy-heliotrope-f9623a.netlify.app/)
 
 
 
